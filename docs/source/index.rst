@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-These are my spanish notes!
-===========================
+These are my spanish notes
+==========================
 
 .. toctree::
    :maxdepth: 2
